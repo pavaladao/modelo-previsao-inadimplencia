@@ -1,6 +1,6 @@
 # Modelo de Previsão de Inadimplência
 
-Este repositório contém um estudo de base de dados e a aplicação de modelos preditivos para identificar potenciais riscos de inadimplência em empréstimos bancários.
+Este repositório contém um estudo de base de dados e a aplicação de modelos preditivos para identificar potenciais riscos de inadimplência em empréstimos bancários. A base de dados em estudo está disponível em https://www.kaggle.com/datasets/yasserh/loan-default-dataset
 
 ## Descrição
 
@@ -61,9 +61,6 @@ A inadimplência em empréstimos representa um desafio significativo para instit
 ```plaintext
 modelo-previsao-inadimplencia/
 ├── Estudo-risco-inadimplencia.ipynb  # Notebook principal com a análise e modelagem
-├── data/                             # Diretório para os dados utilizados
-├── models/                           # Diretório para salvar os modelos treinados
-└── README.md                         # Documentação do projeto
 ```
 
 ## Contribuições
